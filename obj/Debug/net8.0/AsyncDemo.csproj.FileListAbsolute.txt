@@ -1,0 +1,14 @@
+D:\Git\personal\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.exe
+D:\Git\personal\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.deps.json
+D:\Git\personal\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.runtimeconfig.json
+D:\Git\personal\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.dll
+D:\Git\personal\AsyncDemo\AsyncDemo\bin\Debug\net8.0\AsyncDemo.pdb
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.AssemblyInfoInputs.cache
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.AssemblyInfo.cs
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.csproj.CoreCompileInputs.cache
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.dll
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\refint\AsyncDemo.dll
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.pdb
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\AsyncDemo.genruntimeconfig.cache
+D:\Git\personal\AsyncDemo\AsyncDemo\obj\Debug\net8.0\ref\AsyncDemo.dll
